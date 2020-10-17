@@ -173,7 +173,7 @@ export default class App extends React.Component {
                   </Dropdown.Menu>
                 </Dropdown>
                 <Button
-                  className="float-right"
+                  className="float-center"
                   variant="primary"
                   onClick={this.csucess}
                 >
